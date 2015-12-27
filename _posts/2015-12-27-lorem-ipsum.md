@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Just a first test post.
-datePublished: '2015-12-27T08:44:20.738Z'
-dateModified: '2015-12-27T08:26:22.956Z'
+datePublished: '2015-12-27T08:46:05.223Z'
+dateModified: '2015-12-27T08:44:20.738Z'
 title: Lorem Ipsum
 author: []
 authors: []
