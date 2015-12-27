@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[amftest]]></title>
         <description><![CDATA[amftest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amftest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 08:44:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 08:46:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amftest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lorem Ipsum]]></title>
             <description><![CDATA[<article><h1>Lorem Ipsum</h1><p>Lorem ipsum dolor sit amet, nunc aedipiscis and so on</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45ce4cc82351c76e63f8bc95eac8c9c423e9860b.jpg"></article>]]></description>
-            <link>undefinedlorem-ipsum/index.html</link>
+            <link>https://thegrid.ai/amftest/lorem-ipsum/index.html</link>
             <guid isPermaLink="false">ce8ccaa3-70cd-4efd-a9d8-493048c40dce</guid>
-            <pubDate>Sun, 27 Dec 2015 08:44:20 GMT</pubDate>
+            <pubDate>Sun, 27 Dec 2015 08:46:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
